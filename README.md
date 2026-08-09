@@ -1,6 +1,7 @@
 # DecodeLabs Data Analytics — Project 3
-
 ## SQL Data Analysis
+
+**Author:** G. SIVA SHANKAR
 
 This project is part of the **DecodeLabs Data Analytics Internship – Project 3**.
 
